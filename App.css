@@ -1,0 +1,55 @@
+   
+     .main_div{
+      width:100%;
+       height:100vh;
+       
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       text-align: center;
+         
+     }
+
+     .center_div{
+       width:25%;
+        height:60vh;
+        background-color: #f0ffff;
+       
+        border-radius: 15px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+     }
+        button{
+          height:30px;
+          background-color: #a04a80;
+          
+          color:#f0ffff;
+          font-size: 20px;
+          margin-top: 20px;
+         
+           
+        }
+         button:hover{
+          background-color: #22a6b3;
+         }
+
+           .btn_div{
+             width:100%;
+             display: flex;
+             justify-content: space-around;
+             align-items: center;
+           }
+              
+           h1{
+            font-size: 50px;
+             background-color: #30336b;
+            width: 100%;
+           } 
+
+           body{
+            background: fixed;
+            background: #badc58;
+           }
